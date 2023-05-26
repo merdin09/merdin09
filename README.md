@@ -11,7 +11,7 @@
 Для более успешного освоения  профессией смотрю ютуб каналы по данной тематике, читаю статьи на habr.com, vc.ru
 
 
-Languages and Tools
+**Ключевые навыки**
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=FFFF00)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=PANDAS&logoColor=0000FF)
