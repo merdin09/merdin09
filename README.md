@@ -30,3 +30,7 @@
 
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=4169E1)](https://www.linkedin.com/in/sergei-pakhar-209160113/)
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=87CEFA)](@toesnbxhs)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merdin09&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
