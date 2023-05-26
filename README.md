@@ -1,6 +1,6 @@
 [![Header](https://github.com/merdin09/merdin09/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-05-26%20%D0%B2%2011.02.54.png)](https://github.com/merdin09/merdin09/blob/main/CV/Pakhar-CV.pdf)
 
-About me: Добрый день! 
+Добрый день! 
 
 Я  начинающий аналитик данных, хочу исследовать и анализировать большие объемы данных, получать инсайты, которые могут помочь в принятии важных решений в бизнесе. 
 
@@ -14,6 +14,14 @@ About me: Добрый день!
 Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=FFFF00)
-![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=PANDAS&logoColor=800080)
+![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=PANDAS&logoColor=0000FF)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib&logoColor=0000FF)
+![seaborn](https://img.shields.io/badge/-seaborn-090909?style=for-the-badge&logo=seaborn&logoColor=0000FF)
+![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=87CEEB)
+![SciPy](https://img.shields.io/badge/-SciPy-090909?style=for-the-badge&logo=SciPy&logoColor=6495ED	)
+![ORACLE](https://img.shields.io/badge/-ORACLE-090909?style=for-the-badge&logo=ORACLE&logoColor=B22222)
+![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=1E90FF)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=Sql&logoColor=1E90FF)
+
 
 Follow me
