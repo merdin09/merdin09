@@ -19,9 +19,11 @@ Languages and Tools
 ![seaborn](https://img.shields.io/badge/-seaborn-090909?style=for-the-badge&logo=seaborn&logoColor=0000FF)
 ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=87CEEB)
 ![SciPy](https://img.shields.io/badge/-SciPy-090909?style=for-the-badge&logo=SciPy&logoColor=6495ED	)
+![jupyternotebook](https://img.shields.io/badge/-jupyternotebook-090909?style=for-the-badge&logo=jupyter&logoColor=FFA500	)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-090909?style=for-the-badge&logo=ORACLE&logoColor=B22222)
 ![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=1E90FF)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=Sql&logoColor=1E90FF)
+![tableau](https://img.shields.io/badge/-tableau-090909?style=for-the-badge&logo=tableau&logoColor=DAA520)
 
 
 Follow me
