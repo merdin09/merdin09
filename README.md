@@ -41,7 +41,7 @@
 **Follow me:**
 
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/sergei-pakhar-209160113/)
-[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=87CEFA)](@toesnbxhs)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=87CEFA)](https://t.me/toesnbxhs)
 
 
 
