@@ -2,24 +2,21 @@
 
 
 
-Добрый день.
+Hi there!
 
- 
-Меня зовут Пахарь Сергей - я начинающий аналитик, люблю исследовать и анализировать большие объемы данных, получать инсайты, которые могут помочь в бизнесе.
- 
-Всегда работаю на результат, готов развиваться и учиться новому. 
+<p style="text-indent: 30px;">My name is Sergei, and I am a junior analyst who enjoys exploring and analyzing large volumes of data to gain insights that can benefit businesses. I always work towards achieving results and am eager to learn and develop new skills.</p>
 
-Имею 2-х летний релевантный опыт работы, в ходе которого работал с базой  ORACLE, писал SQL-запросы и процедуры для формирования отчетов по требованию заказчика.
+<p style="text-indent: 30px;">I have 2 years of relevant work experience, during which I worked with the ORACLE database, wrote SQL queries and procedures to generate custom reports as per the client's requirements.</p>
 
-Прошел курс Яндекс Практикум “Аналитик Данных”, в ходе которого выполнил 14 проектов в том числе:
- 
-- по исследовательскому анализу и сегментации отточных клиентов банка с построением дашборда в Tablue 
+<p style="text-indent: 30px;">I have completed the "Data Analyst" course at Yandex Practicum, where I worked on 14 projects, including:
 
-- по оценке результатов А/В тестирования
+- conducting exploratory analysis and segmentation of churned bank customers with the creation of a dashboard in Tableau
 
-- по анализу базы сервиса для чтения книг по подписке с применением языка запрос SQL 
+- evaluating the results of A/B testing
 
-Для освоения профессией изучаю материалы по аналитике, смотрю ютуб каналы, читаю статьи.
+- analyzing the subscription-based book reading service database using SQL queries.</p>
+
+<p style="text-indent: 30px;">To further my profession, I study analytics materials, watch YouTube channels, and read articles.</p>
 
 
 
