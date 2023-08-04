@@ -4,7 +4,9 @@
 
 Hi there!
 
-<p style="text-indent: 30px;">My name is Sergei, and I am a junior analyst who enjoys exploring and analyzing large volumes of data to gain insights that can benefit businesses. I always work towards achieving results and am eager to learn and develop new skills.</p>
+<p style="text-indent: 30px;">
+My name is Sergei, and I am a junior analyst who enjoys exploring and analyzing large volumes of data to gain insights that can benefit businesses. I always work towards achieving results and am eager to learn and develop new skills.
+</p>
 
 <p style="text-indent: 30px;">I have 2 years of relevant work experience, during which I worked with the ORACLE database, wrote SQL queries and procedures to generate custom reports as per the client's requirements.</p>
 
